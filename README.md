@@ -8,3 +8,5 @@ Here are some screenshots:
 
 
 ![image](https://user-images.githubusercontent.com/68197709/160362499-490e03af-5557-496c-a01c-9c9ea4f732f3.png)
+
+Done with Java and Swing GUI library.. Design patterns used include factory, abstract factory, builder, and decorator.
